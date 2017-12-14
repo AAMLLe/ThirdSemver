@@ -25,10 +25,5 @@ All notable changes to this project will be documented in this file. See [standa
 <a name="1.0.0"></a>
 # 1.0.0 (2017-12-14)
 
-
-
-<a name="1.0.0"></a>
-# 1.0.0 (2017-12-14)
-
 ### Added
 - New semver project skeleton along with the standard version plug-in
