@@ -19,3 +19,7 @@ console.log("ふぁんど".yellow);
 exports.welcomeMsg = function(color) {
 console.log("ふぁんど".color);
 }
+
+exports.fwMsg = function(color) {
+console.log("さよなら".color);
+}
