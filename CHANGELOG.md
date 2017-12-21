@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/AAMLLe/SecondSemVer/compare/v1.0.2...v1.1.0) (2017-12-21)
+
+
+### Features
+
+* **fwMsg:** Add a gb message ([e84f6a7](https://github.com/AAMLLe/SecondSemVer/commit/e84f6a7))
+
+
+
 <a name="1.0.2"></a>
 ## [1.0.2](https://github.com/AAMLLe/SecondSemVer/compare/v1.0.1...v1.0.2) (2017-12-21)
 
