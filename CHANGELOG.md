@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.2"></a>
+## [1.0.2](https://github.com/AAMLLe/SecondSemVer/compare/v1.0.1...v1.0.2) (2017-12-21)
+
+
+### Bug Fixes
+
+* **welcomeMsg:** fixed color of the output ([a42d42e](https://github.com/AAMLLe/SecondSemVer/commit/a42d42e))
+
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/AAMLLe/SecondSemVer/compare/v1.0.1-alpha.0...v1.0.1) (2017-12-14)
 
