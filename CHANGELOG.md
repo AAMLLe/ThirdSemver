@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.0...v1.2.0) (2017-12-22)
+
+
+### Features
+
+* **Deprecate:** going to remove func welcomeMsg with no arguments ([2e3c965](https://github.com/AAMLLe/SecondSemVer/commit/2e3c965))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/AAMLLe/SecondSemVer/compare/v1.0.2...v1.1.0) (2017-12-21)
 
