@@ -12,9 +12,9 @@ exports.anotherMsg = function(msg, color, repeatTimes) {
  console.log(msg.color);
 }
 
-exports.welcomeMsg = function() {
-console.log("ふぁんど".yellow);
-}
+// exports.welcomeMsg = function() {
+// console.log("ふぁんど".yellow);
+// }
 
 exports.welcomeMsg = function(color) {
 console.log("ふぁんど".color);
