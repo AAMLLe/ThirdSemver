@@ -13,13 +13,9 @@ exports.anotherMsg = function(msg, color, repeatTimes) {
 }
 
 exports.welcomeMsg = function() {
-console.log("ふぁんど".yellow);
+console.log("ふぁんど".darkGreen);
 }
 
 exports.welcomeMsg = function(color) {
 console.log("ふぁんど".color);
-}
-
-exports.fwMsg = function(color) {
-console.log("さよなら".color);
 }

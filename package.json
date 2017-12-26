@@ -1,11 +1,11 @@
 {
   "name": "ThirdDemosemver",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.0",
   "description": "Thrid demo sem ver",
   "main": "index.js",
   "scripts": {
     "test": "node test/syncTest.js",
-    "releaseTSV": "standard-version"
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
