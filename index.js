@@ -16,6 +16,11 @@ exports.welcomeMsg = function() {
 console.log("ふぁんど".darkGreen);
 }
 
+exports.welcomeMsg = function(color, description) {
+console.log(description.color);
+}
+
+
 exports.welcomeMsg = function(color) {
 console.log("ふぁんど".color);
 }
