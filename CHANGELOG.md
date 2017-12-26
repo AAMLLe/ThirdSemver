@@ -2,13 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-<a name="1.1.0"></a>
-# [1.1.0](https://github.com/AAMLLe/SecondSemVer/compare/v1.2.0...v1.1.0) (2017-12-26)
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/AAMLLe/SecondSemVer/compare/v1.0.1-alpha.0...v1.0.1) (2017-12-14)
 
 
-### Features
+### Bug Fixes
 
-* **welcomeMsg:** Add a func welcome without parameter ([91060f9](https://github.com/AAMLLe/SecondSemVer/commit/91060f9))
+* **welcomeMsg:** fixed content of the func ([12e7fe0](https://github.com/AAMLLe/SecondSemVer/commit/12e7fe0))
 
 
 
@@ -19,11 +19,6 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * index file ([d3590dd](https://github.com/AAMLLe/SecondSemVer/commit/d3590dd))
-
-
-
-<a name="1.0.0"></a>
-# 1.0.0 (2017-12-14)
 
 
 
