@@ -18,8 +18,8 @@ console.log("ふぁんど".darkGreen);
 
 exports.welcomeMsg = function(color, description) {
 console.log(description.color);
+console.log('changed');
 }
-
 
 exports.welcomeMsg = function(color) {
 console.log("ふぁんど".color);
