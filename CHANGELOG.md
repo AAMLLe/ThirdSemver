@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.36"></a>
+## [1.1.36](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.35...v1.1.36) (2018-01-05)
+
+
+
 <a name="1.1.35"></a>
 ## [1.1.35](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.34...v1.1.35) (2018-01-05)
 
