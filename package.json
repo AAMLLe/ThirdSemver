@@ -1,10 +1,10 @@
 {
   "name": "ThirdDemosemver",
-  "version": "1.1.128",
+  "version": "1.1.0",
   "description": "Thrid demo sem ver",
   "main": "index.js",
   "scripts": {
-    "test": "node test/syncTest.js && echo Succeeded! && git pull && standard-version && git push --follow-tags origin master && chandler push",
+    "test": "node test/syncTest.js && echo Succeeded! && git pull && standard-version && git push --no-verify --follow-tags origin master && chandler push",
     "release": "standard-version"
   },
   "pre-push": [
