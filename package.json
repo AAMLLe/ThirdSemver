@@ -1,10 +1,10 @@
 {
   "name": "ThirdDemosemver",
-  "version": "1.1.69",
+  "version": "1.1.71",
   "description": "Thrid demo sem ver",
   "main": "index.js",
   "scripts": {
-    "test": "node test/syncTest.js && echo Succeeded! && ./2excB.sh",
+    "test": "node test/syncTest.js && echo Succeeded! && ./3excB.sh",
     "release": "standard-version"
   },
   "pre-push": [
