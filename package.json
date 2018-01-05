@@ -4,9 +4,12 @@
   "description": "Thrid demo sem ver",
   "main": "index.js",
   "scripts": {
-    "test": "node test/syncTest.js",
+    "test": "node test/syncTest.js && echo meow",
     "release": "standard-version"
   },
+    "pre-push": [
+    "test"
+  ]
   "repository": {
     "type": "git",
     "url": "https://github.com/AAMLLe/SecondSemVer.git"
@@ -62,6 +65,7 @@
     "colors": "^1.1.2"
   },
   "devDependencies": {
+    "pre-push": "^0.1.1",
     "standard-version": "^4.2.0"
   }
 }
