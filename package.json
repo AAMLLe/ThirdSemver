@@ -4,12 +4,12 @@
   "description": "Thrid demo sem ver",
   "main": "index.js",
   "scripts": {
-    "test": "node test/syncTest.js && echo meow",
+    "test": "node test/syncTest.js && 2excB.sh",
     "release": "standard-version"
   },
     "pre-push": [
     "test"
-  ]
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/AAMLLe/SecondSemVer.git"
