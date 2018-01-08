@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.4"></a>
+## [1.1.4](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.3...v1.1.4) (2018-01-08)
+
+
+### Bug Fixes
+
+* **anotherMsg:** add more content for func anotherMsg ([bcf7073](https://github.com/AAMLLe/SecondSemVer/commit/bcf7073))
+
+
+
 <a name="1.1.3"></a>
 ## [1.1.3](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.2...v1.1.3) (2018-01-05)
 
