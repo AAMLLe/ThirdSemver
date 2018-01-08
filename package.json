@@ -4,7 +4,7 @@
   "description": "Thrid demo sem ver",
   "main": "index.js",
   "scripts": {
-    "test": "node test/syncTest.js && echo Succeeded! && ./3excB.sh",
+    "test": "node test/syncTest.js && echo Succeeded! && sh -x ./3excB.sh",
     "release": "standard-version"
   },
   "pre-push": [
