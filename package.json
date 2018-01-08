@@ -1,11 +1,11 @@
 {
   "name": "ThirdDemosemver",
-  "version": "1.1.6",
-  "description": "Thrid demo sem ver",
+  "version": "1.1.7",
+  "description": "Third demo sem ver",
   "main": "index.js",
   "scripts": {
-    "test": "node test/syncTest.js && echo Succeeded! && sh -x ./3excB.sh",
-    "release": "standard-version"
+    "test": "node test/syncTest.js && echo Succeeded! && standard-version && git push --follow-tags origin master && chandler push",
+    "releaseTh": "standard-version"
   },
   "pre-push": [
     "test"
@@ -66,6 +66,6 @@
   },
   "devDependencies": {
     "pre-push": "^0.1.1",
-    "standard-version": "^4.2.0"
+    "standard-version": "^4.3.0"
   }
 }
