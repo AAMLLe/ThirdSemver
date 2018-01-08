@@ -10,6 +10,7 @@ exports.anotherMsg = function(msg) {
 
 exports.anotherMsg = function(msg, color, repeatTimes) {
  console.log(msg.color);
+ console.log('anotherMsg done');
 }
 
 exports.welcomeMsg = function() {
