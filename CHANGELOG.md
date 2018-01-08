@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.8"></a>
+## [1.1.8](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.7...v1.1.8) (2018-01-08)
+
+
+### Bug Fixes
+
+* **anotherMsg:** change content func ([cd4509e](https://github.com/AAMLLe/SecondSemVer/commit/cd4509e))
+
+
+
 <a name="1.1.7"></a>
 ## [1.1.7](https://github.com/AAMLLe/SecondSemVer/compare/v1.1.6...v1.1.7) (2018-01-08)
 
